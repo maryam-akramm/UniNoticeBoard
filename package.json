@@ -2,7 +2,7 @@
     "name": "UniNoticeBoard",
     "version": "1.0.0",
     "description": "University Digital Notice Board - DevOps Assignment",
-    "main": "index.js",
+    
     "scripts": {
       "build": "parcel build src/index.html"
     },
