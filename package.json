@@ -2,14 +2,13 @@
     "name": "UniNoticeBoard",
     "version": "1.0.0",
     "description": "University Digital Notice Board - DevOps Assignment",
-    "main": "index.js",
     "scripts": {
-      "build": "parcel build src/index.html"
+        "build": "parcel build src/contact.html"
     },
     "devDependencies": {
-      "htmlhint": "^1.0.0",
-      "stylelint": "^15.0.0",
-      "stylelint-config-standard": "^30.0.0",
-      "parcel": "^2.9.3"
+        "htmlhint": "^1.0.0",
+        "parcel": "^2.9.3",
+        "stylelint": "^15.11.0",
+        "stylelint-config-standard": "^30.0.1"
     }
-  }
+}
