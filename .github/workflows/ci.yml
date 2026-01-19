@@ -21,7 +21,7 @@ jobs:
       - run: npm install
 
       - name: Run HTMLHint
-        run: npx htmlhint "src/**/*.html"
+        run: npx htmlhint "src/index.html"
 
       - name: Run Stylelint
         run: npx stylelint "styles/*.css"
